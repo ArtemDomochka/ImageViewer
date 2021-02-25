@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pics/ContactModel.qml</file>
+        <file>../../Pictures/tree.jpg</file>
+    </qresource>
+</RCC>
